@@ -8,7 +8,3 @@
 * 🎣 See my fishing lifelist [here](https://github.com/samliu/lifelist)
 * 📈 Co-founder @ Post Perception
 * 🚙 Previously @ Waymo (Perception) & 🕵️‍♂️ Google (Spam & Abuse)
-* ✅ Interests
-  * **θ** 🤝 graphs
-  * 🤖 robotic perception
-  * 🐟 fish biology
