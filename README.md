@@ -7,4 +7,4 @@ angler extraordinare
 
 * 🎣 See my fishing lifelist [here](https://github.com/samliu/lifelist)
 * 📈 Co-founder @ Post Perception
-* 🚙 Previously @ Waymo (Perception) & 🕵️‍♂️ Google (Spam & Abuse)
+* 🚙 Previously @ Waymo Perception & 🕵️‍♂️ Google Counter-abuse
